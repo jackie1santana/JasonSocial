@@ -1,0 +1,22 @@
+
+.heading{
+   text-align: center;
+   color: white;
+}
+body{ 
+   background: url(austin.jpg); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   background-color: black
+}
+
+.online{
+   color: #66CD00;
+}
+
+.location{
+   color:white;
+   font-size: 30px;
+}
